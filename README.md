@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: Guilherme_s_sa@estudante.sesisenai.org.br  
-💼 GitHub: https://github.com/guilhermessa
+💼 GitHub: https://github.com/guilhermessa-creator
 
 ---
 
