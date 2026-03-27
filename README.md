@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Guilherme Sousa de Sá
 
-🎓 Estudante da Aprendizagem Industrial  em programador de sistemas de informação 
+🎓 Estudante da Aprendizagem Industrial  em Programador de Sistemas de Informação (SENAI) contratado pela empresa Grupo Farenzena.
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
